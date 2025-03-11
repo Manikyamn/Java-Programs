@@ -1,1 +1,13 @@
 Intro Note
+
+$ git add Introduction.txt
+
+$ git commit -m "Your_Commit_code_Message"
+
+$ git push --all https://github.com/Manikyamn/Java-Programs.git
+
+git add . --> to dd all the files (multiple files)
+
+
+
+
