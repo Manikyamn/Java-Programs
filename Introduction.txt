@@ -1,4 +1,4 @@
-Intro Note
+commands
 
 $ git add Introduction.txt
 
@@ -10,6 +10,8 @@ git add . --> to dd all the files (multiple files)
 
 $ git pull https://github.com/Manikyamn/Java-Programs.git
 
+$ git fetch
+$ git checkout develop
 
 
 
