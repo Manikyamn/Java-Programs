@@ -8,6 +8,11 @@ $ git push --all https://github.com/Manikyamn/Java-Programs.git
 
 git add . --> to dd all the files (multiple files)
 
+$ git pull https://github.com/Manikyamn/Java-Programs.git
+
+
+
+
 
 
 
